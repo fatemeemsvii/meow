@@ -6,8 +6,8 @@ a cute project about cats.
 we completed this project in two days.
 
 **team members**
-.fatemeh mousavi 
-.hamed mehr 
-.milad vaghefnezhad
+1.fatemeh mousavi 
+2.hamed mehr 
+3.milad vaghefnezhad
 
 
